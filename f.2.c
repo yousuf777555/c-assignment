@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+#include<string.h>
+//practise git
 struct node
 {
     int data;
